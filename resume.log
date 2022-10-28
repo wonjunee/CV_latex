@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  28 OCT 2022 15:04
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  28 OCT 2022 15:56
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1203,7 +1203,7 @@ esome5Free-Solid-900.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/goog
 le/roboto/Roboto-Italic.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/a
 dobe/sourcesanspro/SourceSansPro-Regular.otf></usr/local/texlive/2020/texmf-dist
 /fonts/opentype/google/roboto/Roboto-Regular.otf>
-Output written on resume.pdf (3 pages, 47755 bytes).
+Output written on resume.pdf (3 pages, 47133 bytes).
 
 PDF statistics: 126 PDF objects out of 1000 (max. 8388607)
  93 compressed objects within 1 object stream
