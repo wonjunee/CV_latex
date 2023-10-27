@@ -8,3 +8,6 @@ resume.log
 resume.aux
 *.gz
 *.json
+resume.aux
+.gitignore
+resume.synctex.gz
