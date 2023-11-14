@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  14 NOV 2023 11:12
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  14 NOV 2023 11:33
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/wonjunlee/Downloads/CV_latex/resume.tex
@@ -908,22 +908,27 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.69914pt on input line 19.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.4994pt on input line 19.
-) (/Users/wonjunlee/Downloads/CV_latex/cv/publications.tex
+)
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 11.
+(Font)              scaled to size 8.0pt on input line 93.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 11.
+(Font)              scaled to size 8.0pt on input line 93.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/wonjunlee/Downloads/CV_latex/cv/publications.tex
 Overfull \hbox (0.11398pt too wide) in paragraph at lines 26--28
 []\TU/SourceSansPro(0)/m/n/10.95 S. Agrawal, \TU/SourceSansPro(0)/b/n/10.95 W. Lee\TU/SourceSansPro(0)/m/n/10.95 , S. W. Fung, L. Nurbekyan, []\TU/SourceSansPro(0)/m/it/10.95 Ran-dom Fea-tures for High-Dimensional Non-lo-cal Mean-
  []
 
-) (/Users/wonjunlee/Downloads/CV_latex/cv/presentations.tex [2]) (/Users/wonjunlee/Downloads/CV_latex/cv/teachingexperience.tex) (/Users/wonjunlee/Downloads/CV_latex/cv/workexperience.tex
+) (/Users/wonjunlee/Downloads/CV_latex/cv/presentations.tex [2]) (/Users/wonjunlee/Downloads/CV_latex/cv/teachingexperience.tex
+Overfull \hbox (2.84544pt too wide) in alignment at lines 23--23
+ [][] 
+ []
+
+) [3] (/Users/wonjunlee/Downloads/CV_latex/cv/workexperience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 26.
- [3]) (/Users/wonjunlee/Downloads/CV_latex/cv/languages.tex
+) (/Users/wonjunlee/Downloads/CV_latex/cv/languages.tex
 Overfull \hbox (37.39156pt too wide) in alignment at lines 9--23
 [] []
  []
@@ -931,27 +936,27 @@ Overfull \hbox (37.39156pt too wide) in alignment at lines 9--23
 ) 
 AED: lastpage setting LastPage
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (/Users/wonjunlee/Downloads/CV_latex/resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35632 strings out of 480992
+ 35637 strings out of 480992
  100000,1144653 words of node,token memory allocated
  747 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 17 attribute, 85 glue_spec, 17 attribute_list, 3 write, 8 pdf_action nodes
-   avail lists: 1:1,2:1063,3:279,4:157,5:916,6:100,7:5616,8:27,9:644,10:15,11:423
- 52050 multiletter control sequences out of 65536+600000
- 137 fonts using 38559099 bytes
- 73i,12n,112p,832b,1080s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:1,2:1059,3:279,4:158,5:916,6:100,7:5616,8:27,9:645,10:15,11:423
+ 52054 multiletter control sequences out of 65536+600000
+ 137 fonts using 38559351 bytes
+ 73i,14n,112p,832b,1080s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf>
-Output written on resume.pdf (4 pages, 49985 bytes).
+Output written on resume.pdf (4 pages, 50311 bytes).
 
-PDF statistics: 138 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 131072)
+PDF statistics: 139 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -744,6 +744,27 @@
 }
 
 
+% Define an environment for teaching
+\newenvironment{cvteachings}{%
+  % \vspace{\acvSectionContentTopSkip}
+  \vspace{-0.7cm}
+  % \begin{center}
+    % \setlength\tabcolsep{0pt}
+    % \setlength{\extrarowheight}{0pt}
+    \begin{longtable}{L{2.1cm} L{\textwidth - 2cm}}
+}{%
+    \end{longtable}
+  % \end{center}
+}
+% Define a line of cv information(honor, award or something else)
+% Usage: \cvteaching{Math 2243}{linear algebrea}{Spring 2024}
+\newcommand*{\cvteaching}[3]{%
+  \honordatestyle{#1} & \talklocationstyle{#2}: \honortitlestyle{#3} \\
+}
+
+
+
+
 % Define an environment for cvitems(for cventry)
 \newenvironment{cvitems}{%
   \vspace{-4.0mm}
