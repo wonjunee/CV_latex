@@ -731,9 +731,9 @@
   \begin{center}
     \setlength\tabcolsep{0pt}
     \setlength{\extrarowheight}{0pt}
-    \begin{tabular*}{\textwidth}{L{1cm} L{\textwidth - 1cm}}
+    \begin{longtable}{L{1cm} L{\textwidth - 1cm}}
 }{%
-    \end{tabular*}
+    \end{longtable}
   \end{center}
 }
 % Define a line of cv information(honor, award or something else)
@@ -748,6 +748,7 @@
 \newenvironment{cvitems}{%
   \vspace{-4.0mm}
   \begin{justify}
+    \allowdisplaybreaks
   \begin{itemize}[leftmargin=2ex, nosep, noitemsep]
     \setlength{\parskip}{1mm}
     \renewcommand{\labelitemi}{\bullet}

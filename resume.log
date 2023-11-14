@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 NOV 2023 23:45
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  14 NOV 2023 11:11
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/wonjunlee/Downloads/CV_latex/resume.tex
@@ -674,7 +674,24 @@ Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
  (/usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
 \BKM@id=\count312
-))) (/usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
+))) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip82
+\LTright=\skip83
+\LTpre=\skip84
+\LTpost=\skip85
+\LTchunksize=\count313
+\LTcapwidth=\dimen272
+\LT@head=\box71
+\LT@firsthead=\box72
+\LT@foot=\box73
+\LT@lastfoot=\box74
+\LT@cols=\count314
+\LT@rows=\count315
+\c@LT@tables=\count316
+\c@LT@chunks=\count317
+\LT@p@ftn=\toks42
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 ) (/Users/wonjunlee/Downloads/CV_latex/resume.aux)
 \openout1 = resume.aux
@@ -740,17 +757,17 @@ LaTeX Info: Redefining \selectfont on input line 69.
 
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen272
-\scratchbox=\box71
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen273
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks43
+\scratchcounter=\count318
+\scratchdimen=\dimen273
+\scratchbox=\box75
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count321
+\MPscratchDim=\dimen274
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks44
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -804,7 +821,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.47441pt on input line 69.
  ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box72
+\AtBeginShipoutBox=\box76
 Package hyperref Info: Link coloring OFF on input line 69.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -813,7 +830,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count319
+\c@section@level=\count324
 )
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
@@ -821,8 +838,8 @@ LaTeX Info: Redefining \nameref on input line 69.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 69.
-\headertextwidth=\skip82
-\headerphotowidth=\skip83
+\headertextwidth=\skip86
+\headerphotowidth=\skip87
 LaTeX Font Info:    Font shape `TU/Roboto(2)/m/n' will be
 (Font)              scaled to size 25.0pt on input line 73.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
@@ -899,7 +916,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
  [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.11398pt too wide) in paragraph at lines 24--26
+Overfull \hbox (0.11398pt too wide) in paragraph at lines 26--28
 []\TU/SourceSansPro(0)/m/n/10.95 S. Agrawal, \TU/SourceSansPro(0)/b/n/10.95 W. Lee\TU/SourceSansPro(0)/m/n/10.95 , S. W. Fung, L. Nurbekyan, []\TU/SourceSansPro(0)/m/it/10.95 Ran-dom Fea-tures for High-Dimensional Non-lo-cal Mean-
  []
 
@@ -922,19 +939,19 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35543 strings out of 480992
+ 35632 strings out of 480992
  100000,1144653 words of node,token memory allocated
- 717 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 16 attribute, 81 glue_spec, 16 attribute_list, 3 write, 7 pdf_action nodes
-   avail lists: 1:1,2:925,3:196,4:131,5:688,6:75,7:4034,8:24,9:463,10:15,11:301
- 51969 multiletter control sequences out of 65536+600000
- 137 fonts using 38559015 bytes
+ 747 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 17 attribute, 85 glue_spec, 17 attribute_list, 3 write, 8 pdf_action nodes
+   avail lists: 1:1,2:1063,3:279,4:157,5:916,6:100,7:5616,8:27,9:644,10:15,11:423
+ 52050 multiletter control sequences out of 65536+600000
+ 137 fonts using 38559183 bytes
  73i,12n,112p,832b,1080s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf>
-Output written on resume.pdf (4 pages, 49120 bytes).
+Output written on resume.pdf (4 pages, 49985 bytes).
 
-PDF statistics: 134 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 131072)
+PDF statistics: 138 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
+ 15 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
