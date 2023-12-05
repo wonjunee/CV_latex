@@ -738,9 +738,14 @@
 }
 % Define a line of cv information(honor, award or something else)
 % Usage: \cvtalk{<position>}{<title>}{<location>}{<date>}
-\newcommand*{\cvtalk}[3]{%
-  \honordatestyle{#3} & \talklocationstyle{#1}\\
-                   {}   &  \honortitlestyle{#2} \vspace{2mm}\\
+% \newcommand*{\cvtalk}[3]{%
+%   \honordatestyle{#3} & \talklocationstyle{#1}\\
+%                    {}   &  \honortitlestyle{#2} \vspace{2mm}\\
+% }
+
+\newcommand*{\cvtalk}[4]{%
+  \honordatestyle{#4} & \honortitlestyle{#1}, \talklocationstyle{#2}\\
+                   {}   &  {} \\
 }
 
 
