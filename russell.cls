@@ -726,11 +726,11 @@
 
 % Define an environment for cvhonor
 \newenvironment{cvtalks}{%
-  \vspace{\acvSectionContentTopSkip}
+  % \vspace{\acvSectionContentTopSkip}
   \vspace{-1mm}
   \begin{center}
     \setlength\tabcolsep{0pt}
-    \setlength{\extrarowheight}{0pt}
+    \setlength{\extrarowheight}{5pt}
     \begin{longtable}{L{1cm} L{\textwidth - 1cm}}
 }{%
     \end{longtable}
@@ -745,7 +745,7 @@
 
 \newcommand*{\cvtalk}[4]{%
   \honordatestyle{#4} & \honortitlestyle{#1}, \talklocationstyle{#2}\\
-                   {}   &  {} \\
+                  %  {}   &  {} \\
 }
 
 
