@@ -197,6 +197,7 @@
 
 % For elements of talks
 \newcommand*{\talklocationstyle}[1]{{\fontsize{11pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\talktitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\slshape\color{darktext} #1}}
 
 % For elements of the cover letter
 \newcommand*{\lettersectionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\bfseries\color{text}\@sectioncolor #1}}
@@ -745,7 +746,7 @@
 
 \newcommand*{\cvtalk}[4]{%
   \honordatestyle{#4} & \honortitlestyle{#1}, \talklocationstyle{#2}\\
-                  %  {}   &  {} \\
+  % \talktitlestyle{#3} \honordatestyle{#4}, \honortitlestyle{#1},  \talklocationstyle{#2}\\
 }
 
 
