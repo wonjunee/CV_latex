@@ -744,9 +744,35 @@
 %                    {}   &  \honortitlestyle{#2} \vspace{2mm}\\
 % }
 
+\newcommand*{\cvservice}[3]{%
+  % \honordatestyle{#4} & \honortitlestyle{#1}, \talklocationstyle{#2}\\
+  \honordatestyle{#3} & \honortitlestyle{#1},  \talklocationstyle{#2}\\
+}
+
+
+
+% Define an environment for cvhonor
+\newenvironment{cvservices}{%
+  % \vspace{\acvSectionContentTopSkip}
+  \vspace{-1mm}
+  \begin{center}
+    \setlength\tabcolsep{0pt}
+    \setlength{\extrarowheight}{5pt}
+    \begin{longtable}{L{1cm} L{\textwidth - 1cm}}
+}{%
+    \end{longtable}
+  \end{center}
+}
+% Define a line of cv information(honor, award or something else)
+% Usage: \cvtalk{<position>}{<title>}{<location>}{<date>}
+% \newcommand*{\cvtalk}[3]{%
+%   \honordatestyle{#3} & \talklocationstyle{#1}\\
+%                    {}   &  \honortitlestyle{#2} \vspace{2mm}\\
+% }
+
 \newcommand*{\cvtalk}[4]{%
-  \honordatestyle{#4} & \honortitlestyle{#1}, \talklocationstyle{#2}\\
-  % \talktitlestyle{#3} \honordatestyle{#4}, \honortitlestyle{#1},  \talklocationstyle{#2}\\
+  % \honordatestyle{#4} & \honortitlestyle{#1}, \talklocationstyle{#2}\\
+  \honordatestyle{#4} & \talktitlestyle{#3}, \honortitlestyle{#1},  \talklocationstyle{#2}\\
 }
 
 
